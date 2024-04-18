@@ -1,3 +1,6 @@
+Here is the link of notebook:
+https://colab.research.google.com/drive/1OXJ3P8G7mQVq4l7jTar4oYO1uvuVN-f8?usp=sharing
+
 Python Data Types-Basics
 >>> my_number = 1
 >>> type(my_number)
